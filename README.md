@@ -40,15 +40,23 @@ Discuss the importance of Integrated Development Environments (IDEs) and Version
  VCS allows programmers to monitor changes,collaborate and arrange projects e.g Git 
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
+ Bugs: fixing bugs encountereed in their code, thorough testing through a series of testing methodologies.
+ Progressive changes in technology : networking and keeping tabs on the latest trends in technology.
+ Security against  viruses : introducing firewalls,passwords, data encryption 
 
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
-
-
+ Unit testing: testing sinlge components of software 
+ Intergration : testing relationships between subsystems or different systems.
+ System       : testing the software all together.
+ Acceptance   : checking whether the sotware meets user requirements.
+ 
 #Part 2: Introduction to AI and Prompt Engineering
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
-
+ Process of developing prompts to give instructions to AI models to generate the desired output. They are important to develop them prescise prompts to have more accurate responses from AI.
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+  What to cook for dinner. A simple recipe for spaghetti and meatballs using only 6 ingredients to serve 8 people.
+  It gives the AI a more specific prompt and it generates a accurate and relevant response.
