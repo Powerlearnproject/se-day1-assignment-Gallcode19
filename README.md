@@ -11,10 +11,13 @@ Explain what software engineering is and discuss its importance in the technolog
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 
-  Development of software engineering as a discipline 
+  Development of software engineering as a discipline  in the 1960s
+  Introducton of Object-Oriented Programming involving representation of real entities with objects in the 1980s
+  Agile Programming in the 2000s that saw the introduction of iterative programming with continous feedback.
 
 
 List and briefly explain the phases of the Software Development Life Cycle.
+ Requirements 
 
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
